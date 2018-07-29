@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/fragment_apropos"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/activity_main_drawer_apropos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:text="@string/biblioth_que_marguerite_de_bourgeoys"
+        android:textColor="#000000"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="45dp"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        android:text="@string/coordonn_es"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:layout_marginStart="10dp"
+        android:textColor="#000000"
+        android:text="@string/vous_pouvez_nous_contacter_sur_le_514_515_5555"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:layout_marginTop="45dp"
+        android:layout_marginStart="10dp"
+        android:text="@string/horaire_r_gulier"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:textSize="25sp"
+        android:layout_marginStart="10dp"
+        android:textColor="#000000"
+        android:text="@string/du_lundi_au_samedi_de_8h_18h_sauf_le_dimanche_et_les_jours_f_ri_s"/>
+
+</LinearLayout>

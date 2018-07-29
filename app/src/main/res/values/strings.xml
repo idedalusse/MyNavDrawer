@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Ma Bibliothéque</string>
+    <!-- Used in NavigationDrawer -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="biblioth_que_marguerite_de_bourgeoys">Bibliothèque Marguerite de Bourgeoys :</string>
+    <string name="du_lundi_au_samedi_de_8h_18h_sauf_le_dimanche_et_les_jours_f_ri_s">Du Lundi au Samedi : de 8H à 18H. Sauf le Dimanche et les jours fériés.</string>
+    <string name="horaire_r_gulier">Horaire régulier:</string>
+    <string name="vous_pouvez_nous_contacter_sur_le_514_515_5555">Vous pouvez nous contacter sur le : 514-515-5555.</string>
+    <string name="coordonn_es">Coordonnées:</string>
+    <string name="en_terminant_par_afficher_les_param_tres_de_l_application_l">... en terminant par afficher les paramètres de l\'application là ?</string>
+    <string name="et_dans_ce_fragment_afficher_le_profil_de_l_utilisateur_hein">... et dans ce fragment afficher le profil de l\'utilisateur, hein ?</string>
+    <string name="afficher_les_parametres_de_l_application">Afficher les parametres de l\'application</string>
+    <string name="profile_du_client">Profile du client</string>
+    <string name="affichage_de_l_historique_du_client">Affichage de l\'historique du client</string>
+    <string name="page_d_acceuille">Page d\'acceuille</string>
+    <string name="parametre_de_l_application">parametre_de_l_application</string>
+    <string name="pour_faire_de_la_recherche_dans_les_livres">Pour faire de la recherche dans les livres</string>
+    <string name="biblioth_que_marguerite_bourgeoys">Bibliothèque Marguerite Bourgeoys</string>
+    <string name="biblioth_que">Bibliothèque</string>
+    <string name="marguerite_bourgeoys">Marguerite Bourgeoys</string>
+    <string name="affichage_des_livres_sans_la_recherche">Affichage des livres sans la recherche</string>
+</resources>
